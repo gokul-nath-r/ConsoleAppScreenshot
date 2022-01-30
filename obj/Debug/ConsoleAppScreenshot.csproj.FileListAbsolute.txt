@@ -1,0 +1,7 @@
+F:\MY\Next phase\C sharp\ConsoleAppScreenshot\bin\Debug\ConsoleAppScreenshot.exe.config
+F:\MY\Next phase\C sharp\ConsoleAppScreenshot\bin\Debug\ConsoleAppScreenshot.exe
+F:\MY\Next phase\C sharp\ConsoleAppScreenshot\bin\Debug\ConsoleAppScreenshot.pdb
+F:\MY\Next phase\C sharp\ConsoleAppScreenshot\obj\Debug\ConsoleAppScreenshot.csproj.CoreCompileInputs.cache
+F:\MY\Next phase\C sharp\ConsoleAppScreenshot\obj\Debug\ConsoleAppScreenshot.exe
+F:\MY\Next phase\C sharp\ConsoleAppScreenshot\obj\Debug\ConsoleAppScreenshot.pdb
+F:\MY\Next phase\C sharp\ConsoleAppScreenshot\obj\Debug\ConsoleAppScreenshot.csprojAssemblyReference.cache
